@@ -2,7 +2,8 @@ import React from 'react'
 
 const SimpleCode = () => {
   return (
-    <div>SimpleCode..</div>
+    <div>SimpleCode.. for diff</div>
+    
   )
 }
 
